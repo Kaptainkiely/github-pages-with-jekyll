@@ -1,4 +1,3 @@
-welcome to my blog hope you enjoy it 
 
 ---
 title: "portfolio"
