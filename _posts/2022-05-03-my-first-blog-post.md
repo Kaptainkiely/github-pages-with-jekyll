@@ -1,7 +1,7 @@
 
 ---
-title: "portfolio"
-date: 2022-05-03
+title: "Your blog post title"
+date: YYYY-MM-DD
 ---
 
 welcome to my blog
